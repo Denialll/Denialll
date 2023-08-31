@@ -1,5 +1,5 @@
 ### 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello👋,+I'm+Daniel!;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello👋,+I'm+Daniel!)](https://git.io/typing-svg)
 
 #### I am java, python developer
 
