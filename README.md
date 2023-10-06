@@ -22,6 +22,7 @@
 - 🔗 Discord - deniel.khl
 - 🔗 E-Mail - deniel.khl@gmail.com
 - 🔗 Telegram - https://t.me/WhhiteRabbit
+- 🔗 LeetCode - https://leetcode.com/den4ic369
 
 <h2>Languages</h2>
 
