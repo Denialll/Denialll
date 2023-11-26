@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Hello%F0%9F%91%8B%2C+I'm+Daniel!;I+dream+of+becoming+a+DevOps+engineer%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Hello%F0%9F%91%8B%2C+I'm+Daniel!" alt="Typing SVG" /></a>
 <h2>My Skill Set</h2>
 <div style="display: flex; justify-content: center;">
   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
