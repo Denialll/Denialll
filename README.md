@@ -28,7 +28,6 @@
 
 - 🌐 Russian (native)
 - 🌐 English (B1)
-- 🌐 Germany (C1)
 
 <h3>Visitor counter</h3>
   
